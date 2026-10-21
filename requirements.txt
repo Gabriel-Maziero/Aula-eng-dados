@@ -1,0 +1,9 @@
+db-dtypes
+google-auth
+google-cloud-bigquery
+igmapper
+ipykernel
+pandas-gbq
+pandas
+selenium
+tmdbsimple
